@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "redis": "^4.0.4"
+  }
+}
